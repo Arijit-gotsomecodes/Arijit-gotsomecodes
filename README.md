@@ -1,8 +1,8 @@
 
-[![MasterHead](https://i.ibb.co/TbVn7LM/bannerk.jpg)](https://github.com/Arijit-gotsomecodes)
+[![MasterHead](https://i.ibb.co/R2W8Z5X/banner2.gif)](https://github.com/Arijit-gotsomecodes)
 <h1 align="center">Hi 👋, I'm Arijit Deb</h1>
 <h3 align="center">My codes are like my handwriting you can read it buy can't understand it.</h3>
-<img align="right" alt="Coding" width="400" src="https://stemettes.org/zine/wp-content/uploads/sites/3/2021/09/giphy-5-4.gif">
+<img align="right" alt="Coding" width="400" src="https://i.ibb.co/h8SCyd6/imgforgit.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arijit-gotsomecodes&label=Profile%20views&color=0e75b6&style=flat" alt="arijit-gotsomecodes" /> </p>
 
