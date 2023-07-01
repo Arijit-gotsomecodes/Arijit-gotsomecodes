@@ -1,3 +1,5 @@
+
+[![MasterHead](https://i.ibb.co/TbVn7LM/bannerk.jpg)](https://github.com/Arijit-gotsomecodes)
 <h1 align="center">Hi 👋, I'm Arijit</h1>
 <h3 align="center">A passionate full stack developer from India, I am a student at Amity University Kolkata and currently completing my BCA.</h3>
 
