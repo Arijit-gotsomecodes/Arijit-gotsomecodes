@@ -3,7 +3,7 @@
 <h3 align="center">A passionate full stack developer from India, I am a student at Amity University Kolkata and currently completing my BCA.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arijit-gotsomecodes&label=Profile%20views&color=0e75b6&style=flat" alt="arijit-gotsomecodes" /> </p>
-<img align="right" alt="Coding" width="400" src="https://i.postimg.cc/y6gN4tS2/Side-Quote.gif">
+<img align="right" alt="Coding" width="400" src="https://images4.imagebam.com/c0/da/29/METFV64_o.gif">
 
 - 🌱 I’m currently learning **React Js, Native Wind, API intregation**
 
