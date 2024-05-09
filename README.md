@@ -2,14 +2,14 @@
 <h1 align="center">Hi 👋, I'm Arijit</h1>
 <h3 align="center">A passionate full stack developer from India, I am a student at Amity University Kolkata and currently completing my BCA.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=arijit-gotsomecodes&label=Profile%20views&color=0e75b6&style=flat" alt="arijit-gotsomecodes" /> </p>
-<img align="right" alt="Coding" width="400" src="https://images4.imagebam.com/c0/da/29/METFV64_o.gif">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=arijit-gotsomecodes&label=Profile%20views&color=0e75b6&style=flat" alt="arijit-gotsomecodes" style="border-radius: 10px;"/> </p>
+<img align="right" alt="Coding" width="400" src="https://images4.imagebam.com/c0/da/29/METFV64_o.gif" style="border-radius: 10px;">
 
 - 🌱 I’m currently learning **React Js, Native Wind, API intregation**
 
-- 💬 Ask me about **react, C, java**
+- 💬 Ask me about **React, C, java, Python**
 
-- 📫 How to reach me **arijit.deb1@s.amity.edu**
+- 📫 How to reach me **arijitdeb1414@outlook.com**
 
 - ⚡ Fun fact **My life is like null**
 
